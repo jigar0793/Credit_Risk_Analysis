@@ -33,10 +33,10 @@ Software: Python, Anaconda Navigator, Conda, Jupyter Notebook.
 <img width="536" alt="image" src="https://user-images.githubusercontent.com/94248676/174724309-512a285b-5ac4-4859-8e4e-aa152497ebaf.png">
 
 * Balanced Random Forest Classifier results: the accuracy score is 77.2% the precision is 99% and the recall is 88%
-
+<img width="536" alt="image" src="https://user-images.githubusercontent.com/94248676/175208648-cbd7c4a7-dd4e-4341-a41c-9826ff1f7293.png">
 
 * Easy Ensemble AdaBoost Classifier results: the accuracy score is 91.7% the precision is 99% and the recall is 94%
-
+<img width="536" alt="image" src="https://user-images.githubusercontent.com/94248676/175208782-d36970ea-6f68-4410-974a-5d7efe56e6ea.png">
 
 
 ## Summary
